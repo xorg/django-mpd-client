@@ -9,3 +9,11 @@
 
 # vim swap files
 *.swp
+
+# icons
+mpd/mobile/media/img/next.png
+mpd/mobile/media/img/previous.png
+mpd/mobile/media/img/play.png
+mpd/mobile/media/img/pause.png
+mpd/mobile/media/img/apple-touch-icon.png
+mpd/mobile/media/img/delete.png
